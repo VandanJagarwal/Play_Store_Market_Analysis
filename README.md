@@ -1,5 +1,8 @@
 # Play Store Market Analysis
 
+#### Download Full Dataset - https://www.kaggle.com/datasets/vandanjagarwal/google-play-store-dataset-2010-to-2021
+-------------------------------------------------------------------------------------------------------------
+
 In this project, I analyzed data from the Google Play Store to uncover trends in app categories, user ratings, and install patterns. I began by cleaning the raw dataset - removing duplicates, handling missing values, standardizing formats (e.g., transforming install counts and price columns), and filtering out invalid or inconsistent entries.
 
 **Once cleaned, I performed exploratory data analysis (EDA) to identify key trends:**
